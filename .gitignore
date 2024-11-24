@@ -1,0 +1,2 @@
+# Ignore the target directory (where Cargo stores compiled artifacts)
+target/
